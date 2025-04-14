@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/fc659229-406c-4e3c-959f-e15293159744" height='50px' width='100px'>
+<img src="https://github.com/user-attachments/assets/fc659229-406c-4e3c-959f-e15293159744" height='100px' width='200px'>
 <h2>This 🌐 Website is created for Gernral Purpose Blogs and Providing Entertainment Updates to the Viewers<h2>
   Though simple Techs are used i) HTML ii) CSS iii) JS
   <h3>Developed with 🔥full enthusiasm By 👦 Royal Mishra</h3>
